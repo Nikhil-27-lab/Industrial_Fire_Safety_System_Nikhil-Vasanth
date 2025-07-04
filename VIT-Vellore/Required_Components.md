@@ -1,8 +1,8 @@
-# 🧰 Required Components to Develop the Solution
+#  Required Components to Develop the Solution
 
 ---
 
-## 🔌 Hardware Components:
+##  Hardware Components:
 
 - Arduino Uno microcontroller board
 - MQ2 Gas Sensor (for smoke/gas detection)
@@ -20,20 +20,17 @@
 
 - **Arduino IDE**
   - Used to write and upload code to Arduino Uno
-  - Link: https://www.arduino.cc/en/software
 
 - **Tinkercad Circuits**
   - Used to simulate the entire hardware circuit without physical components
-  - Link: https://www.tinkercad.com/
 
 ---
 
-## 🛠️ Optional Tools (If Used):
+## 🛠 Optional Tools (Software):
 
 - **Fritzing**
   - For creating circuit diagrams and generating Gerber files
-  - Link: https://fritzing.org/
 
-- **Text Editor or VS Code**
-  - For editing Markdown files like README
+
+
 
