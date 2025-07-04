@@ -1,4 +1,4 @@
-# 🔥 Industrial Fire Safety System
+# Industrial Fire Safety System
 
 ## Overview
 This project is an **Industrial Fire Safety System** designed to detect and alert in case of a fire or gas leak within industrial environments. The system uses an MQ2 gas sensor and an ambient light sensor (as a substitute for a flame sensor) to monitor environmental conditions. When dangerous thresholds are detected, the system triggers a buzzer alert and displays warning messages using a 16x2 LCD.
@@ -33,14 +33,13 @@ To build and simulate this project, follow the setup steps below using Tinkercad
 - 10kΩ Potentiometer (for LCD contrast)  
 - Breadboard  
 - Jumper wires  
-- USB A to B Cable (if hardware is used)
+- USB A to B Cable
 
 ---
 
 ## Software Requirements
 - Arduino IDE  
 - Tinkercad Circuits (for simulation)  
-- Fritzing (optional – for circuit diagram and PCB/Gerber file generation)
 
 ---
 
@@ -54,7 +53,7 @@ To build and simulate this project, follow the setup steps below using Tinkercad
 
 ## Usage
 - The system continuously reads values from the **MQ2 Gas Sensor** and **Ambient Light Sensor**.
-- If smoke levels (MQ2) are above 400 **or** light level drops below 300 (indicating fire):
+- If smoke levels (MQ2) are above 500 **or** light level drops below 300 (indicating fire):
   - Buzzer sounds an alert.
   - LCD displays "ALERT!" along with sensor values.
 - If safe, the LCD simply shows real-time sensor values without alert.
