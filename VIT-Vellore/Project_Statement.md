@@ -1,11 +1,11 @@
-# 📄 Project Statement
+#  Project Statement
 
-## 🔷 Project Title:
+##  Project Title:
 **Industrial Fire Safety System Using Arduino**
 
 ---
 
-## 🧾 Description:
+##  Description:
 
 In industrial environments, fire and gas leak accidents pose a serious threat to both life and infrastructure. Traditional safety systems often rely on manual monitoring, which may delay emergency response. This project aims to design and implement a **microcontroller-based Industrial Fire Safety System** that can **automatically detect the presence of smoke, gas, or fire** and **alert personnel using visual and audio indicators**.
 
@@ -15,10 +15,4 @@ This automated solution enhances worker safety and enables faster evacuation dur
 
 ---
 
-## 🎯 Objective:
-
-- Continuously monitor gas and light levels in the environment.  
-- Detect hazardous fire/smoke conditions using threshold values.  
-- Alert workers with buzzer sound and LCD messages.  
-- Simulate the complete system using Arduino Uno and Tinkercad.
 
