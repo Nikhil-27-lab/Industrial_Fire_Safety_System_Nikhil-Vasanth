@@ -80,8 +80,7 @@ Watch the demonstration video of the working prototype here:
 ---
 
 ## Contributing
-Contributions are welcome!  
-Fork the repository, make changes, and submit a pull request to contribute to the project.
+Contributions are welcome! Please fork this repository and submit a pull request.
 
 ---
 
