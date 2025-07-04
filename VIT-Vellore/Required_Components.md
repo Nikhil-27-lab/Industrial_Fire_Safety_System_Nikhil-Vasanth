@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Software Requirements:
+##  Software Requirements:
 
 - **Arduino IDE**
   - Used to write and upload code to Arduino Uno
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠 Optional Tools (Software):
+##  Optional Tools (Software):
 
 - **Fritzing**
   - For creating circuit diagrams and generating Gerber files
