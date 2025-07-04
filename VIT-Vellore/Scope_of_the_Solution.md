@@ -1,6 +1,6 @@
 #  Scope of the Solution
 
---
+---
 
 - Detect hazardous conditions such as gas leaks or fire using:
   - MQ2 Gas Sensor to detect smoke or flammable gases.
