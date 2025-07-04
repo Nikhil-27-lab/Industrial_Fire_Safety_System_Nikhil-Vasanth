@@ -1,4 +1,4 @@
-#  Scope of the Solution
+  Scope of the Solution
 
 ---
 
