@@ -1,8 +1,8 @@
-# 🔍 Scope of the Solution
+#  Scope of the Solution
 
 ---
 
-## ✅ In-Scope (What the system will do):
+##  In-Scope (What the system will do):
 
 - Detect hazardous conditions such as gas leaks or fire using:
   - MQ2 Gas Sensor to detect smoke or flammable gases.
@@ -21,20 +21,4 @@
 - Ensure the solution is cost-effective, easy to deploy, and suitable for small to mid-sized industries.
 
 ---
-
-## 🚫 Out-of-Scope (What is not included):
-
-- Wireless communication (e.g., GSM, Wi-Fi, Bluetooth).
-- Internet-based alerting or IoT/cloud integration.
-- Fire suppression mechanisms (no automatic extinguisher system).
-- Full PCB implementation (unless optional Gerber files are generated).
-
----
-
-## 🧩 Applications:
-
-- Industrial manufacturing and processing units
-- Warehouses and storage facilities
-- Electrical control rooms and server rooms
-- Academic project demonstrations
 
