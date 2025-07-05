@@ -62,17 +62,28 @@ To build and simulate this project, follow the setup steps below using Tinkercad
 
 ## Files Included
 
-## 📁 Files Included
 
-| File/Folder                | Description                                                             |
-|---------------------------|-------------------------------------------------------------------------|
-| `Code/fire_safety_system.ino` | Contains the Arduino code for integrating with sensors, LCD, and buzzer. |
-| `Gerber/`                 | Includes PCB design files for the fire alert system (if applicable).    |
-| `Docs/Detailed_Project_Report.md` | Comprehensive report explaining the project in detail.               |
-| `Video/demo.mp4`          | Demonstrates the simulation and working of the project.                 |
-| `Docs/Scope_of_the_Solution.md` | Describes the objectives and limitations of the project.              |
-| `Docs/Problem_Statement.md`     | Highlights the problem your system solves.                             |
-| `Docs/Required_Components.md`  | Lists all software and hardware components used.                       |
+- **Code/fire_safety_system.ino**  
+  Contains the Arduino code for interfacing the MQ2 gas sensor, ambient light sensor, LCD, and buzzer.
+
+- **Gerber/**  
+  Includes the PCB design files for the fire alert system (optional, if PCB design was created).
+
+- **Docs/Detailed_Project_Report.md**  
+  A complete project report with all details including objectives, components, architecture, testing, and results.
+
+- **Video/demo.mp4**  
+  A demonstration video showing the simulation and working of the fire safety system.
+
+- **Docs/Scope_of_the_Solution.md**  
+  Describes the scope of the system, including features implemented and limitations.
+
+- **Docs/Problem_Statement.md**  
+  Clearly defines the problem being solved by the system.
+
+- **Docs/Required_Components.md**  
+  Lists all hardware and software components used, including IDEs and simulation tools.
+
 
 
 ---
