@@ -62,14 +62,18 @@ To build and simulate this project, follow the setup steps below using Tinkercad
 
 ## Files Included
 
-| Folder/File | Description |
-|-------------|-------------|
-| `Code/fire_safety_system.ino` | Arduino source code |
-| `Circuit/tinkercad_schematic.png` | Circuit diagram from Tinkercad |
-| `Video/demo.mp4` or YouTube link | Demonstration video |
-| `Gerber/` | Gerber files (if PCB is designed) |
-| `Components.txt` | List of components used |
-| `README.md` | Project overview and documentation |
+## 📁 Files Included
+
+| File/Folder                | Description                                                             |
+|---------------------------|-------------------------------------------------------------------------|
+| `Code/fire_safety_system.ino` | Contains the Arduino code for integrating with sensors, LCD, and buzzer. |
+| `Gerber/`                 | Includes PCB design files for the fire alert system (if applicable).    |
+| `Docs/Detailed_Project_Report.md` | Comprehensive report explaining the project in detail.               |
+| `Video/demo.mp4`          | Demonstrates the simulation and working of the project.                 |
+| `Docs/Scope_of_the_Solution.md` | Describes the objectives and limitations of the project.              |
+| `Docs/Problem_Statement.md`     | Highlights the problem your system solves.                             |
+| `Docs/Required_Components.md`  | Lists all software and hardware components used.                       |
+
 
 ---
 
