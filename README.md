@@ -69,7 +69,7 @@ To build and simulate this project, follow the setup steps below using Tinkercad
 - **Gerber File**  
   Includes the PCB design files for the fire alert system.
 
-- **Detailed_Project_Report**  
+- **Detailed Project Report**  
   Comprehensive report detailing the project.
 
 - **Demo Video**  
