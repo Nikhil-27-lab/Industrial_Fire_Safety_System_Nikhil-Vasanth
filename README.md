@@ -75,7 +75,7 @@ To build and simulate this project, follow the setup steps below using Tinkercad
 
 ## Demo Video
 Watch the demonstration video of the working prototype here:  
-👉 [Demo Video Link](#) *(Add your video link or embed video here)*
+👉 [Demo Video Link](#) *(https://drive.google.com/file/d/1xjMqNlr-fg3ck-SjrcaTHwm4U2UuRilz/view?usp=drive_link)*
 
 ---
 
