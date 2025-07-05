@@ -45,7 +45,7 @@ To build and simulate this project, follow the setup steps below using Tinkercad
 
 ## Installation
 1. Connect the hardware components as per the circuit diagram in the `Simulated_Circuit_Diagram` file.
-2. Open the Arduino code file (`fire_safety_system.ino`) from the `Code/` directory.
+2. Open the Arduino code file (`fire_safety_system.ino`) from the `industrial_fire_safety_system_arduino_code.ino\` directory.
 3. Upload the code to the Arduino Uno using Arduino IDE.
 4. Power the microcontroller – the system starts automatically.
 
